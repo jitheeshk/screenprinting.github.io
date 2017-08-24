@@ -5,6 +5,7 @@ Screen printing is a printing technique whereby a mesh is used to transfer ink o
 ## Steps 
 
 * > First vinyl cut the figure we want to screen print .
+  <img src="http://jitheeshk.github.io/">
 * > Now take the mirror of the  figure and stick it onto the frame of the Screen print .
 * > Now mix the colour .
 * > Place the Frame onto where we want to screen print and now pour the pani into the back of the frame and spread it evenly .
