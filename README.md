@@ -13,6 +13,7 @@ Screen printing is a printing technique whereby a mesh is used to transfer ink o
   <img src="http://jitheeshk.github.io/screenprinting.github.io/Paint.jpg">
 * > Place the Frame onto where we want to screen print and now pour the pani into the back of the frame and spread it evenly .
 <img src="http://jitheeshk.github.io/screenprinting.github.io/screen print.png">
+
+## The one we did looks like :
  
- The one we did looks like :
  <img src="http://jitheeshk.github.io/screenprinting.github.io/screen print.jpg">
