@@ -8,4 +8,5 @@ Screen printing is a printing technique whereby a mesh is used to transfer ink o
   <img src="http://jitheeshk.github.io/screenprinting.github.io/vinyl-cutting-seattle-pike-st-press-sign-lettering.jpg">
 * > Now take the mirror of the  figure and stick it onto the frame of the Screen print .
 * > Now mix the colour .
-* > Place the Frame onto where we want to screen print and now pour the pani into the back of the frame and spread it evenly .
+  <img src="http://jitheeshk.github.io/screenprinting.github.io/Printing.jpg">
+* > Place the Frame onto where we want to screen print and now pour the pani into the back of the frame and spread it evenLY .
