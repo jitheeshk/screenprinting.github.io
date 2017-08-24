@@ -26,11 +26,11 @@ Molding or moulding is the process of manufacturing by shaping liquid or pliable
 ### Steps 
 
 * > Prepare the mould . Mould could be prepared by any of the steps :
-          > Wax mould
+          > Wax mould<br/>
           <img src="http://jitheeshk.github.io/screenprinting.github.io/wax mould.jpg">
-          > Soap bar Mould
+          > Soap bar Mould<br/>
           <img src="http://jitheeshk.github.io/screenprinting.github.io/soap mould.jpg">
-          > 3-D printed mould
+          > 3-D printed mould<br/>
           <img src="http://jitheeshk.github.io/screenprinting.github.io/3D print mould.jpg">
   <img src="http://jitheeshk.github.io/screenprinting.github.io/mould.jpg">
 * > Now mix the filler along with the paint .
