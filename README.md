@@ -31,7 +31,7 @@ Molding or moulding is the process of manufacturing by shaping liquid or pliable
           2. Soap bar Mould
           <img src="http://jitheeshk.github.io/screenprinting.github.io/soap mould.jpg"><br/>
           3. 3-D printed mould
-          <img src="http://jitheeshk.github.io/screenprinting.github.io/3D print mould.png"><br/>
+          <img src="http://jitheeshk.github.io/screenprinting.github.io/"><br/>
   <img src="http://jitheeshk.github.io/screenprinting.github.io/mould.jpg">
 * > Now mix the filler along with the paint .
   <img src="http://jitheeshk.github.io/screenprinting.github.io/mix.jpg">
